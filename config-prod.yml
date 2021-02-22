@@ -1,2 +1,2 @@
 config:
-  prod: "config info for prod(dev)"
+  prod: "config info for prod(in master)"
